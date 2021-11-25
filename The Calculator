@@ -1,4 +1,6 @@
-int x, y, z, s;
+int x, y, z, s, p;
 read x, y;
 z = x+y
 print z
+s = x-y
+print p
